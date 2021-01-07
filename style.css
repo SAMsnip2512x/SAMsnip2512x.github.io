@@ -78,15 +78,15 @@ hr {
 .me {
 	margin: 1px 20px;
 	float: left;
-	width: 10em;
-	height: 10em;
-	transition: width 2s, height 2.5s;
+	width: 12em;
+	height: 12em;
+/* 	transition: width 2s, height 2.5s; */
 }
 
-.me:hover {
+/* .me:hover {
 	width: 16em;
 	height: 16em;
-}
+} */
 
 .rotate{
 	transform: rotate(180deg);
